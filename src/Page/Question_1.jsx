@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom'
 
 
 function Question_1() {
-  const ()
 
   const [ageArr, setAgeFilterArr] = useState([
     { name: 'John', age: 25 },
